@@ -23,6 +23,7 @@ Use the TypeScript compiler (`tsc`) to compile the `.ts` files into JavaScript:
 tsc advanced.ts
 tsc fundamentals.ts
 tsc twofer.ts
+tsc resistor-values.ts
 ```
 
 This will generate `advanced.js` and `fundamentals.js` in the same directory.
@@ -33,6 +34,7 @@ Use Node.js to execute the compiled JavaScript files:
 node advanced.js
 node fundamentals.js
 node twofer.ts
+node resistor-values.ts
 ```
 
 ## Notes
