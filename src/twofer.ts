@@ -20,7 +20,7 @@ Here are some examples:
 Name 	    Dialogue
 Alice 	    One for Alice, one for me.
 Bohdan 	    One for Bohdan, one for me.
-<unnamed>	One for you, one for me.
+<unnamed>	  One for you, one for me.
 Zaphod 	    One for Zaphod, one for me.
 */
 

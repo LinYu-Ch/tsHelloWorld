@@ -16,4 +16,4 @@
 
 // Type Guards
 
-// DeClaration Merging
+// Declaration Merging
