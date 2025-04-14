@@ -22,6 +22,7 @@ Use the TypeScript compiler (`tsc`) to compile the `.ts` files into JavaScript:
 ```bash
 tsc advanced.ts
 tsc fundamentals.ts
+tsc twofer.ts
 ```
 
 This will generate `advanced.js` and `fundamentals.js` in the same directory.
@@ -31,6 +32,7 @@ Use Node.js to execute the compiled JavaScript files:
 ```bash
 node advanced.js
 node fundamentals.js
+node twofer.ts
 ```
 
 ## Notes
