@@ -40,3 +40,6 @@ node fundamentals.js
   tsc --version
   ```
 - You can also use a TypeScript configuration file (`tsconfig.json`) for more advanced setups.
+
+## GPT AI usage Disclaimer
+While the main content of this repository is written by myself, and the objectives are to be fulfilled without AI assistance, the scaffolding and high level research for this project were done with the assistance of an AI assitant.
