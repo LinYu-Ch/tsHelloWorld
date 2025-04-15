@@ -24,6 +24,7 @@ tsc advanced.ts
 tsc fundamentals.ts
 tsc twofer.ts
 tsc resistor-values.ts
+tsc resistor-values-two.ts
 ```
 
 This will generate `advanced.js` and `fundamentals.js` in the same directory.
@@ -35,6 +36,7 @@ node advanced.js
 node fundamentals.js
 node twofer.ts
 node resistor-values.ts
+node resistor-values-two.ts
 ```
 
 ## Notes
